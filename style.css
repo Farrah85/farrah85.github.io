@@ -1,0 +1,103 @@
+
+* {
+    background-color: #E0FFFF
+}
+
+h1 {
+  font-family: 'Luckiest Guy', cursive;
+   font-size: 75px;
+   color:#000080;
+   text-shadow: 2px 2px 4px #1E90FF;
+}
+/*Home page location for css styling*/
+
+ #pic img {
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    float: center;
+    padding: 70px 
+    
+}
+
+img {
+   float: center;
+}
+
+
+/* Housing css styling location */
+li {
+   list-style-type: circle;
+
+ 
+   
+}
+
+ul{
+   text-align: center;
+   text-decoration: underline;
+   color: ;
+}
+
+h2 {
+   text-align: center;
+   color: #4B0082;
+   font-size: 35px;
+   text-decoration: underline;
+}
+
+h3 {
+    font-size: 20px;
+    color:;
+    text-decoration: underline
+}
+.img1 img{
+   width: 15px;
+   height: 15px;
+   float: left;
+   padding: 10px;
+}
+ .img2 img{
+   width: 5px;
+   height: 5px;
+   padding: 10px;
+   float: center;
+}
+
+.img3 img {
+padding: 10px;
+  width: 5px;
+  height: 5px;
+  float: right;
+  margin-top: -325px
+  
+  
+}
+
+div {
+   
+}
+
+.nav li {
+   display: inline-block;
+   text-align: center;
+   margin: 15px;
+   font-size: 20px;
+   color:;
+}
+
+div #title{
+   text-align: center;
+}
+#title {
+   font-size:55px;
+   color: ;
+   font-style: 
+   text-align: center;
+   
+}
+
+p {
+   font-family: 'Rancho', cursive;
+   font-size: 30px
+}
